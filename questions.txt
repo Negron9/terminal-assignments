@@ -1,6 +1,6 @@
 **Part I**
 1. make a directory called ***first***
-
+mkdir first
 2. change directory to the ***first*** folder
 3. create a file called ***person.txt***
 4. change the name of ***person.txt*** to *another.txt*
